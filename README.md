@@ -1,6 +1,3 @@
-# product-inventory
-Java Spring Boot 4.0 | Product Inventory
-
 # Product Inventory API
 
 A simple Product Inventory Management API built with Spring Boot 4, H2 in-memory database, and manual DTO mapping.

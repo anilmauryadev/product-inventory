@@ -40,4 +40,10 @@ JDBC URL: jdbc:h2:mem:inventorydb
 Username: sa
 Password: (leave blank)
 
+**Swagger UI**
+
+URL: http://localhost:8080/swagger-ui.html
+Explore all endpoints and test requests directly from Swagger interface.
+
+
 
